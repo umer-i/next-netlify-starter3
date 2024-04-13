@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Muhammad Imran" />
         <p className="description">
-          muhammad imran <code>umer/index.js</code>
+          Data scientist - DRCglobal.org - Trader -  <code>umerbtc@protonmail.com</code>
         </p>
       </main>
 
