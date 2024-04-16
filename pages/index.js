@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Muhammad Imran" />
         <p className="description">
-          Funded Trader <code>umerbtc@protonmail.com</code>
+          Investment - Marketing - Store of Value - Funded   <code>umerbtc@protonmail.com</code>
         </p>
       </main>
 
