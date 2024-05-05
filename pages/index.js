@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Muhammad Imran" />
         <p className="description">
-          Investment - Marketing - Store of Value - Funded Trading - Crypto, Stocks, Forex, - Data Science  <code>umerbtc@protonmail.com</code>
+          Effect.AI on NEO  <code>umerbtc@protonmail.com</code>
         </p>
       </main>
 
